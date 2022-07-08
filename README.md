@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/mattiastrettel/Progetto-Robotica/">
+    <img src="https://github.com/MattiasTrettel/Progetto-Robotica/blob/main/img/marchio_unitrento_colore_it_250.jpg">
   </a>
   <h2 align="center">Fundamental of Robotics</h2>
 
