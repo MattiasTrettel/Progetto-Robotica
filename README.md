@@ -24,12 +24,42 @@ minimum requirement to pass the exam is that at least assignments 1 and 2 are co
 Each assignment is associated with some performance indicators that are used in the
 grading of the project.
 
+
+
+```
+  git clone https://github.com/MattiasTrettel/Progetto-Robotica/edit/main/README.md
+  cd Progetto-Robotica
+ 
+  source /opt/ros/noetic/setup.bash
+  catkin build
+  source devel/setup.bash
+  #or source devel/setup.zsh
+  
+  #in order to launch the world after Gazebo's start unpause the simulation
+  roslaunch ultimate_robot robot.launch
+  
+  #first assignment
+  ./spawner_singolo.py
+  
+  #kinematics
+  rosrun robot_movement point_2_node
+  #vision
+  rosrun ultimate_vision ultimate_position.py
+```
+
+
 ## Kinematics 🦾
 [@AndreaMangrella](https://github.com/kativenOG)
 
 [@MattiasTrettel](https://github.com/MattiasTrettel)
 
+
+
 ## Vision 👓
 [@LorenzoCanciani](https://github.com/cancianilorenzo)
 
 [@CarloBottaro](https://github.com/bottarocarlo)
+
+In order to conplete the assignment we made a dataset on roboflow to recognize the block 
+
+
