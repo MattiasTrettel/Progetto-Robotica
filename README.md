@@ -17,7 +17,7 @@ The objects can belong to different classes but have a known geometry. The objec
 
 
 ```
-  git clone https://github.com/MattiasTrettel/Progetto-Robotica/edit/main/README.md
+  git clone https://github.com/MattiasTrettel/Progetto-Robotica
   cd Progetto-Robotica
  
   source /opt/ros/noetic/setup.bash
