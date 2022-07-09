@@ -12,7 +12,7 @@
   </p>
 </p>
 <br>
-A number of objects (e.g., mega-blocks) are stored without any specific order on a stand (initial stand) located within the workspace of a robotic manipulator. The manipulator is an anthropomorphic arm, with a spherical wrist and a three-fingered gripper as end-effector.
+A number of objects (e.g., mega-blocks) are stored without any specific order on a stand (initial stand) located within the workspace of a robotic manipulator. The manipulator is an anthropomorphic arm, with a spherical wrist and a two-fingered gripper as end-effector.
 The objects can belong to different classes but have a known geometry. The objective of the project is to use the manipulator to pick the objects in sequence and to position them on a different stand according to a specified order (final stand). A calibrated 3D sensor is used to locate the different objects and to detect their mutual position in the initial stand.
 
 
