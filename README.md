@@ -50,6 +50,6 @@ The objects can belong to different classes but have a known geometry. The objec
 
 [@CarloBottaro](https://github.com/bottarocarlo)
 
-In order to conplete the assignment we made a dataset on roboflow to recognize the block 
+In order to conplete the assignment we made a dataset on roboflow to recognize the lego bricks
 
 
